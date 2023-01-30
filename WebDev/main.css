@@ -1,0 +1,21 @@
+body
+{
+	background: 	#ffb6c1;
+	font-family: sans-serif;
+}
+p
+{
+	color: white;
+	background: #555;
+}
+a{
+	color: blue;
+	font-family: cursive;
+}
+.sec{
+	color: green;
+	background: grey;
+}
+.vbody{
+	background: #ADD8E6;
+}
